@@ -140,3 +140,4 @@ cython_debug/
 # VSCode nad PyCharm
 .vscode/
 .idea
+.deployment
